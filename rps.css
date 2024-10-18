@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.move{
+    height: 80px;
+    
+
+}
+
+.button-js{
+    background-color: transparent;
+    border-radius: 50%;
+    border-color:white;
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.reset-button{
+    background-color: red;
+    width: 105px;
+    height: 40px;
+    border-style: none;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.result-js{
+    color: yellow;
+    
+}
